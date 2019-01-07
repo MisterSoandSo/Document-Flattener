@@ -11,5 +11,5 @@ The purpose was create a way to automatically convert large amount of documents 
 	[]  Local Server FTP between (Unix-Windows) and (Unix-Unix) systems
 	[]  ...
 ## Dependency
-(Under Construction)
+Imagemagick-6
 
